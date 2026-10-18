@@ -1,0 +1,14 @@
+DECISION REQUIRED — choose this repository's code license before first release.
+
+Exbound implementation repositories carry their own code licenses (documentation
+and research in exbound/research are CC-BY-4.0; that does not govern code here).
+
+Replace this file with the full license text once chosen. Guidance:
+
+- If this repo links or derives from a copyleft engine (e.g. liborigin / LabPlot,
+  which are GPL), the license must be compatible with it — typically GPL-3.0-or-later.
+- If this repo is clean-room-from-scratch code with no copyleft dependency, a
+  permissive license with an explicit patent grant (Apache-2.0) is the default,
+  because the legal basis notes that patents can still bind an independent
+  implementation.
+- State the choice and its reason in README.md under "License."
